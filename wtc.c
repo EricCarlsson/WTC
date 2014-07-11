@@ -1,7 +1,7 @@
-#include<studio.h>
+#include<stdio.h>
 
-init main(){
+int main(void){
 
-	printf("hello this is a test"\n);
+	printf("hello this is a test\n");
 	return 0;
 }
